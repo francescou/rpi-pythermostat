@@ -1,4 +1,4 @@
-FROM armhf/python:2.7-slim
+FROM hypriot/rpi-python:2.7
 
 WORKDIR /app/
 
